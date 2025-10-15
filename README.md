@@ -30,7 +30,7 @@ Plots will be saved automatically in the project folder.
 - Implement more advanced data cleaning techniques to handle missing or inconsistent data---
 
 
- ## 🧠 Insights from the Analysis
+ ## Insights from the Analysis
 
 - **Juice** is the most purchased item with **1171 transactions**, followed closely by **Coffee (1165)** and **Salad (1148)**.  
 - **Cake**, **Sandwiches**, **Smoothies**, and **Cookies** also rank high in popularity.  
