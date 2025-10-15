@@ -1,3 +1,24 @@
+# ☕ Café Sales Data Analysis  
+
+This project explores and analyzes a messy café sales dataset using Python.  
+The goal was to clean the data, handle missing values, and uncover insights  
+through visualization.  
+
+### 🔍 Key Highlights
+- Cleaned and transformed messy sales data  
+- Handled missing values and inconsistent entries  
+- Visualized sales by item, location, and payment method  
+- Created plots using Matplotlib and Seaborn  
+
+### 🧰 Tools Used
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly** (optional for interactive plots)
+
+
 # Café Sales Analysis
 
 ## Overview
