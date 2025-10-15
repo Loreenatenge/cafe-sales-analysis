@@ -1,24 +1,3 @@
-# ☕ Café Sales Data Analysis  
-
-This project explores and analyzes a messy café sales dataset using Python.  
-The goal was to clean the data, handle missing values, and uncover insights  
-through visualization.  
-
-### 🔍 Key Highlights
-- Cleaned and transformed messy sales data  
-- Handled missing values and inconsistent entries  
-- Visualized sales by item, location, and payment method  
-- Created plots using Matplotlib and Seaborn  
-
-### 🧰 Tools Used
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Plotly** (optional for interactive plots)
-
-
 # Café Sales Analysis
 
 ## Overview
@@ -48,7 +27,16 @@ Plots will be saved automatically in the project folder.
 - Build interactive dashboards using Plotly 
 - Add predictive analysis to forecast sales
 - Explore correlations between items, prices, and locations
-- Implement more advanced data cleaning techniques to handle missing or inconsistent data
+- Implement more advanced data cleaning techniques to handle missing or inconsistent data---
+
+
+ ## 🧠 Insights from the Analysis
+
+- **Juice** is the most purchased item with **1171 transactions**, followed closely by **Coffee (1165)** and **Salad (1148)**.  
+- **Cake**, **Sandwiches**, **Smoothies**, and **Cookies** also rank high in popularity.  
+- The presence of **‘UNKNOWN’** and **‘ERROR’** categories indicates missing or misentered data that could be cleaned further.  
+- The café’s top sales come from both beverages and light meals, suggesting customers prefer a mix of quick bites and drinks.
+
 
   ---
 
