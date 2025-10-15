@@ -1,15 +1,21 @@
 import pandas as pd
 
 # Load your dataset
-data = pd.read_csv("dirty_cafe_sales.csv")
+df = pd.read_csv("dirty_cafe_sales.csv")
 # Preview the first few rows
 print("First 5 rows:")
-print(data.head())
+print(df.head())
 
 # Check for missing values
 print("\nMissing values per column:")
-print(data.isnull().sum())
+print(df.isnull().sum())
 
 # Summary info
 print("\nData info:")
-print(data.info())
+print(df.info())
+
+# Check top 10 most purchased items
+top_items = df['Item'].value_counts().head(10)
+print("\nTop 10 Most Purchased Items:")
+print(top_items)
+
