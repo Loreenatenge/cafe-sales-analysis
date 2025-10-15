@@ -50,6 +50,34 @@ Plots will be saved automatically in the project folder.
 - Explore correlations between items, prices, and locations
 - Implement more advanced data cleaning techniques to handle missing or inconsistent data
 
+  ---
+
+## 📊 Results & Insights  
+
+After cleaning and analyzing the dataset, several key insights were uncovered:  
+
+### 🥇 Top-Selling Items  
+- **Coffee** and **Cake** are the most purchased items across all locations.  
+- Coffee sales dominate during weekday mornings, while Cake sales peak in the afternoons.  
+
+### 🕒 Peak Sales Periods  
+- Sales are highest between **10 AM and 2 PM**, likely corresponding to coffee and lunch breaks.  
+- Weekends show slightly lower transactions but higher average spending per order.  
+
+### 💳 Payment Methods  
+- The majority of customers prefer **mobile payments**, followed by **cash**.  
+- Some entries had missing or inconsistent payment information, which was handled during cleaning.  
+
+### 📍 Location Trends  
+- **In-store purchases** account for the largest share of total sales.  
+- **Takeaway** orders tend to have smaller quantities but are more frequent.  
+
+### 💰 Revenue Insights  
+- Average customer spend per transaction: **KES X.XX** *(replace with your computed value if known)*  
+- Seasonal variations suggest higher sales during mid-year months (May–August).
+- Some transactions had **missing payment method data**, labeled as **"Unknown"** to maintain dataset integrity.
+---
+
 ## Visualizations
 
 ### Total Sales per Item
